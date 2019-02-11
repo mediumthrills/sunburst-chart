@@ -1,0 +1,195 @@
+{"name": "Race bid", "children": [
+       {"name": "Body", "children": [
+           {"name": "Flat speed", "children": [
+             {"name": "50k / 2h", "size": 4, "rank": 1}
+            ,{"name": "50k / 1h45", "size": 4, "rank": 1}
+            ,{"name": "50k / 1h30", "size": 4, "rank": 1}
+            ,{"name": "100k / 4h00", "size": 4, "rank": 1}
+            ,{"name": "100k / 3h45", "size": 4, "rank": 1}
+            ,{"name": "100k / 3h30", "size": 4, "rank": 1}
+        ]},{"name": "Climbing", "children": [
+             {"name": "Crowcombe", "size": 4, "rank": 1}
+            ,{"name": "Dunkery Beacon", "size": 4, "rank": 1}
+            ,{"name": "Devil's Staircase", "size": 4, "rank": 1}
+            ,{"name": "Draycott", "size": 4, "rank": 1}
+            ,{"name": "Gospel Pass", "size": 4, "rank": 1}
+            ,{"name": "Abercynafon", "size": 4, "rank": 1}
+            ,{"name": "Rhulen", "size": 4, "rank": 1}
+            ,{"name": "Bedlinog", "size": 4, "rank": 1}
+            ,{"name": "Tumble", "size": 4, "rank": 1}
+            ,{"name": "Llangynidr", "size": 4, "rank": 1}
+        ]},{"name": "Distance", "children": [
+             {"name": "300+200 ECE", "size": 4, "rank": 1}
+            ,{"name": "Fixed Arrow", "size": 4, "rank": 1}
+            ,{"name": "Fixed SR", "size": 4, "rank": 1}
+            ,{"name": "No-sleep 600", "size": 4, "rank": 1}
+            ,{"name": "Randonneur 10k", "size": 4, "rank": 1}
+            ,{"name": "11-point weekend", "size": 4, "rank": 1}
+        ]},{"name": "Strength", "children": [
+             {"name": "WT week 0", "size": 4, "rank": 1}
+            ,{"name": "WT week 1", "size": 4, "rank": 1}
+            ,{"name": "WT week 2", "size": 4, "rank": 1}
+            ,{"name": "WT week 3", "size": 4, "rank": 1}
+            ,{"name": "WT week 4", "size": 4, "rank": 1}
+            ,{"name": "WT week 5", "size": 4, "rank": 1}
+            ,{"name": "WT week 6", "size": 4, "rank": 1}
+            ,{"name": "WT week 7", "size": 4, "rank": 1}
+            ,{"name": "WT week 8", "size": 4, "rank": 1}
+            ,{"name": "WT week 9", "size": 4, "rank": 1}
+            ,{"name": "WT week 10", "size": 4, "rank": 1}
+            ,{"name": "WT week 11", "size": 4, "rank": 1}
+            ,{"name": "WT week 12", "size": 4, "rank": 1}
+            ,{"name": "WT week 13", "size": 4, "rank": 1}
+            ,{"name": "WT week 14", "size": 4, "rank": 1}
+            ,{"name": "WT week 15", "size": 4, "rank": 1}
+            ,{"name": "WT week 16", "size": 4, "rank": 1}
+            ,{"name": "TAPER", "size": 4, "rank": 1}
+        ]}
+    ]},{"name": "Bike", "children": [
+           {"name": "Frameset", "children": [
+             {"name": "", "size": 4, "rank": 1}
+            ,{"name": "", "size": 4, "rank": 1}
+        ]},{"name": "Groupset", "children": [
+             {"name": "", "size": 4, "rank": 1}
+            ,{"name": "", "size": 4, "rank": 1}
+        ]},{"name": "Wheelset", "children": [
+             {"name": "", "size": 4, "rank": 1}
+            ,{"name": "", "size": 4, "rank": 1}
+        ]},{"name": "Finishing", "children": [
+             {"name": "", "size": 4, "rank": 1}
+            ,{"name": "", "size": 4, "rank": 1}
+        ]},{"name": "Pre-race", "children": [
+             {"name": "", "size": 4, "rank": 1}
+            ,{"name": "", "size": 4, "rank": 1}
+        ]}
+    ]},{"name": "Kit", "children": [
+           {"name": "Clothes", "children": [
+             {"name": "Jersey", "size": 4, "rank": 1}
+            ,{"name": "Shorts", "size": 4, "rank": 1}
+            ,{"name": "Baselayer 1", "size": 4, "rank": 1}
+            ,{"name": "Baselayer 2", "size": 4, "rank": 1}
+            ,{"name": "Tights", "size": 4, "rank": 1}
+            ,{"name": "Socks 1", "size": 4, "rank": 1}
+            ,{"name": "Socks 2", "size": 4, "rank": 1}
+            ,{"name": "Gloves", "size": 4, "rank": 1}
+            ,{"name": "Buff", "size": 4, "rank": 1}
+            ,{"name": "Sunglasses", "size": 4, "rank": 1}
+            ,{"name": "Cap", "size": 4, "rank": 1}
+        ]},{"name": "Tools/spares", "children": [
+             {"name": "Front tyre", "size": 4, "rank": 1}
+            ,{"name": "Rear tyre", "size": 4, "rank": 1}
+            ,{"name": "Tube 1", "size": 4, "rank": 1}
+            ,{"name": "Tube 2", "size": 4, "rank": 1}
+            ,{"name": "Patch kit", "size": 4, "rank": 1}
+            ,{"name": "Tape", "size": 4, "rank": 1}
+            ,{"name": "Cable ties", "size": 4, "rank": 1}
+            ,{"name": "Multitool", "size": 4, "rank": 1}
+            ,{"name": "Rubber gloves", "size": 4, "rank": 1}
+            ,{"name": "Levers", "size": 4, "rank": 1}
+            ,{"name": "Pump", "size": 4, "rank": 1}
+        ]},{"name": "PPE", "children": [
+             {"name": "Helmet", "size": 4, "rank": 1}
+            ,{"name": "Hi-vis", "size": 4, "rank": 1}
+            ,{"name": "Rainshell", "size": 4, "rank": 1}
+            ,{"name": "Front light 1", "size": 4, "rank": 1}
+            ,{"name": "Front light 2", "size": 4, "rank": 1}
+            ,{"name": "Front light 3", "size": 4, "rank": 1}
+            ,{"name": "Headtorch", "size": 4, "rank": 1}
+            ,{"name": "Rear light 1", "size": 4, "rank": 1}
+            ,{"name": "Rear light 2", "size": 4, "rank": 1}
+            ,{"name": "Rear light 3", "size": 4, "rank": 1}
+            ,{"name": "Lock", "size": 4, "rank": 1}
+            ,{"name": "Bell", "size": 4, "rank": 1}
+        ]},{"name": "Storage", "children": [
+             {"name": "Main bag", "size": 4, "rank": 1}
+            ,{"name": "Quick bag", "size": 4, "rank": 1}
+            ,{"name": "Bottle 1", "size": 4, "rank": 1}
+            ,{"name": "Bottle 2", "size": 4, "rank": 1}
+            ,{"name": "", "size": 4, "rank": 1}
+        ]},{"name": "Comfort", "children": [
+             {"name": "Washkit", "size": 4, "rank": 1}
+            ,{"name": "First aid", "size": 4, "rank": 1}
+            ,{"name": "Sleeping bag", "size": 4, "rank": 1}
+            ,{"name": "Silk liner", "size": 4, "rank": 1}
+            ,{"name": "Bedroll", "size": 4, "rank": 1}
+        ]},{"name": "Electronics", "children": [
+             {"name": "Phone", "size": 4, "rank": 1}
+            ,{"name": "GPS", "size": 4, "rank": 1}
+            ,{"name": "Chargebank 1", "size": 4, "rank": 1}
+            ,{"name": "Chargebank 2", "size": 4, "rank": 1}
+            ,{"name": "Wall charger", "size": 4, "rank": 1}
+        ]},{"name": "Documents", "children": [
+             {"name": "Passport", "size": 4, "rank": 1}
+            ,{"name": "Doctor's note", "size": 4, "rank": 1}
+            ,{"name": "Insurance", "size": 4, "rank": 1}
+            ,{"name": "Route notes", "size": 4, "rank": 1}
+            ,{"name": "Phraselist", "size": 4, "rank": 1}
+            ,{"name": "Kit sheet", "size": 4, "rank": 1}
+            ,{"name": "Spec sheet", "size": 4, "rank": 1}
+            ,{"name": "Card", "size": 4, "rank": 1}
+            ,{"name": "Doc wallet", "size": 4, "rank": 1}
+        ]}
+    ]},{"name": "Logistics", "children": [
+           {"name": "Flights", "children": [
+             {"name": "Fix date", "size": 4, "rank": 1}
+            ,{"name": "Book flight", "size": 4, "rank": 1}
+        ]},{"name": "Accom", "children": [
+             {"name": "Fix date", "size": 4, "rank": 1}
+            ,{"name": "Book accom", "size": 4, "rank": 1}
+        ]},{"name": "Insurance", "children": [
+             {"name": "3 quotes", "size": 4, "rank": 1}
+            ,{"name": "Buy one", "size": 4, "rank": 1}
+        ]},{"name": "Medical", "children": [
+             {"name": "Ask Emma", "size": 4, "rank": 1}
+            ,{"name": "GP reg", "size": 4, "rank": 1}
+            ,{"name": "Book appt", "size": 4, "rank": 1}
+            ,{"name": "Get letter", "size": 4, "rank": 1}
+        ]},{"name": "Pre-race", "children": [
+             {"name": "Box bike", "size": 4, "rank": 1}
+            ,{"name": "Build bike", "size": 4, "rank": 1}
+            ,{"name": "Travel to start", "size": 4, "rank": 1}
+        ]}
+    ]},{"name": "Strategy", "children": [
+           {"name": "Route", "children": [
+             {"name": "A-route 1.0", "size": 4, "rank": 1}
+            ,{"name": "B-route 1.0", "size": 4, "rank": 1}
+            ,{"name": "All CPs/parcours", "size": 4, "rank": 1}
+            ,{"name": "A-route 2.0", "size": 4, "rank": 1}
+            ,{"name": "B-route 2.0", "size": 4, "rank": 1}
+        ]},{"name": "Stoptions", "children": [
+             {"name": "100k food & accom", "size": 4, "rank": 1}
+            ,{"name": "50k food only", "size": 4, "rank": 1}
+            ,{"name": "List bike shops", "size": 4, "rank": 1}
+        ]},{"name": "Contingency", "children": [
+             {"name": "Paper route", "size": 4, "rank": 1}
+            ,{"name": "", "size": 4, "rank": 1}
+        ]},{"name": "Targets", "children": [
+             {"name": "Flat stages", "size": 4, "rank": 1}
+            ,{"name": "Mountains", "size": 4, "rank": 1}
+            ,{"name": "Parcours", "size": 4, "rank": 1}
+            ,{"name": "Per day", "size": 4, "rank": 1}
+        ]},{"name": "Directions", "children": [
+             {"name": "TBT 1.0", "size": 4, "rank": 1}
+            ,{"name": "TBT 2.0", "size": 4, "rank": 1}
+        ]}
+    ]},{"name": "Skills", "children": [
+           {"name": "Mechanical", "children": [
+             {"name": "Fast puncture repair", "size": 4, "rank": 1}
+            ,{"name": "Hyraulic servicing", "size": 4, "rank": 1}
+            ,{"name": "Wheel truing", "size": 4, "rank": 1}
+        ]},{"name": "Sleep", "children": [
+             {"name": "2hr bivi + 300k", "size": 4, "rank": 1}
+            ,{"name": "1 week no snooze", "size": 4, "rank": 1}
+            ,{"name": "1 week 4am starts", "size": 4, "rank": 1}
+        ]},{"name": "Faff", "children": [
+             {"name": "", "size": 4, "rank": 1}
+            ,{"name": "", "size": 4, "rank": 1}
+        ]},{"name": "Technical", "children": [
+             {"name": "", "size": 4, "rank": 1}
+            ,{"name": "", "size": 4, "rank": 1}
+        ]},{"name": "", "children": [
+             {"name": "", "size": 4, "rank": 1}
+            ,{"name": "", "size": 4, "rank": 1}
+        ]}
+    ]}
+]}
